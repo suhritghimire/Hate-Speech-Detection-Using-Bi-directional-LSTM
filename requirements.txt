@@ -1,0 +1,14 @@
+# Authored by Suhrit Ghimire
+torch>=2.0.0
+transformers>=4.25.0
+datasets>=2.8.0
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+spacy>=3.4.0
+tensorflow>=2.11.0
+imbalanced-learn>=0.10.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+tqdm>=4.64.0
+evaluate>=0.4.0
